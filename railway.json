@@ -4,7 +4,6 @@
     "dockerfilePath": "Dockerfile"
   },
   "deploy": {
-    "startCommand": "java -jar target/salesforce-app-0.0.1-SNAPSHOT.jar",
     "restartPolicyType": "ON_FAILURE"
   }
 }
